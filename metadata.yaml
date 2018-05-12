@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31424'
     url: http://www.gutenberg.org/2009/agents/31424
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25562#William-Adolphus-Turnpike
 gutenberg_issued: '2008-05-22'
 gutenberg_type: Text
 identifiers:
